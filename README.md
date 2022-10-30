@@ -96,6 +96,7 @@ print(res.x)
 
 ## Output:
 ![logistic regression using gradient descent](op1.png)
+
 ![logistic regression using gradient descent](op2.png)
 ![logistic regression using gradient descent](op3.png)
 ![logistic regression using gradient descent](op4.png)

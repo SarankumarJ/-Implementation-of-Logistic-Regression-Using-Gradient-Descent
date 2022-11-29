@@ -94,23 +94,26 @@ def predict(theta,X):
 np.mean(predict(res.x,X)==y)
 ```
 ## Output:
-![op1](https://user-images.githubusercontent.com/93427303/196707079-8d7bf851-194c-452f-bfed-5396e9dbad54.png)
+![image](https://user-images.githubusercontent.com/94778101/204469854-685cc4a3-8be3-418d-9a4c-d6c4c9ebc3c7.png)
 
-![op2](https://user-images.githubusercontent.com/93427303/196707095-570972a4-60e0-4563-b5fc-23f3ea136db3.png)
+![image](https://user-images.githubusercontent.com/94778101/204469902-e17639b2-2bf2-4e6c-951d-6d966d9123fa.png)
 
-![op3](https://user-images.githubusercontent.com/93427303/196707123-a383679b-f9b6-454b-9195-db73c847c0e8.png)
+![image](https://user-images.githubusercontent.com/94778101/204469982-5fa0d0fc-2608-442f-be4d-8aa7b64255ff.png)
 
-![op4](https://user-images.githubusercontent.com/93427303/196707147-3793da20-2df7-4ae1-b167-a75b8425ab21.png)
+![image](https://user-images.githubusercontent.com/94778101/204470028-ce2e13ff-e33a-490e-9db8-aca7aefa3a64.png)
 
-![op5](https://user-images.githubusercontent.com/93427303/196707161-7a05926b-ab4f-42e0-bebb-d3bbecb5f5c2.png)
+![image](https://user-images.githubusercontent.com/94778101/204470098-f4e44f57-bee7-413c-9331-f2e45993c9ff.png)
 
-![op6](https://user-images.githubusercontent.com/93427303/196707183-246bef46-ebe0-43c6-b2f2-454ae9917223.png)
+![image](https://user-images.githubusercontent.com/94778101/204470203-da32de1c-a2f9-4947-ad95-97defa747447.png)
 
-![op7](https://user-images.githubusercontent.com/93427303/196707212-82fe0851-6fcb-4cfc-b529-9e8202e42eab.png)
+![image](https://user-images.githubusercontent.com/94778101/204470267-e3c2e4ad-6dcf-427a-85a2-d112362a58d9.png)
 
-![op8](https://user-images.githubusercontent.com/93427303/196707240-4f9021b0-ebb7-4de8-aee9-066a1ab1a1d4.png)
+![image](https://user-images.githubusercontent.com/94778101/204470326-a9131949-219e-4586-aad0-2881f44fbbe4.png)
 
-![op9](https://user-images.githubusercontent.com/93427303/196707267-cb3e71ea-b21a-493a-ab92-fc02ef48f92d.png)
+![image](https://user-images.githubusercontent.com/94778101/204470392-9edcdc6d-c95a-4369-b505-52384c1a43ab.png)
+
+![image](https://user-images.githubusercontent.com/94778101/204470473-f9adb667-899a-4b80-83e2-0aa0399567f4.png)
+
 
 
 
